@@ -1,0 +1,25 @@
+.form1{
+    text-align: center;
+    background-color: rgb(106, 223, 77);
+}
+.submit1{
+
+    
+    background-color: red;
+    
+}
+
+#para{
+    line-height: 20px;
+    /* letter-spacing: 5px; */
+    text-align: justify;
+    /* text-decoration: underline; */
+    text-indent: 150px;
+    text-transform: capitalize;
+    font-family: 'Rubik Puddles', cursive;
+    /* font-size: small; */
+    /* font-style: italic; */
+    font-variant: small-caps;
+    font-weight: bold;
+
+}
